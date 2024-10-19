@@ -1,0 +1,16 @@
+# Compiled Java class files
+*.class
+
+# macOS metadata files
+.DS_Store
+
+# Logs
+*.log
+
+# Build directories
+/target/
+/build/
+
+# IDE and editor-specific files
+.idea/
+.vscode/
